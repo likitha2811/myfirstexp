@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+ <employee id="501">
+ <firstName>Sunil</firstName>
+ <lastName>Yadav</lastName>
+ <location>Hyd &#xA;</location>
+ </employee> 
+ <employee id="502">
+ <firstName>Trilok</firstName>
+ <lastName>Reddy</lastName>
+ <location>Chevella</location>
+ </employee>
+ <employee id="503">
+ <firstName>Mallikarjun</firstName>
+ <lastName>Tiger</lastName>
+ <location>Forest</location>
+ </employee>
+ <employee id="504">
+ <firstName>Neelima</firstName>
+ <lastName>Lakshmi</lastName>
+ <location>MP</location>
+ </employee>
+ <employee id="505">
+ <firstName>Abhi</firstName>
+ <lastName>Shambu</lastName>
+ <location>LD</location>
+ </employee>
+ <employee id="506">
+ <firstName>Nikitha</firstName>
+ <lastName>Reddy</lastName>
+ <location>UP</location>
+ </employee>
+ <employee id="507">
+ <firstName>Ashwini</firstName>
+ <lastName>Reddy</lastName>
+ <location>ADB</location>
+WEBTECHNOLOGIES LAB
+22
+COMPUTER SCIENCE & ENGINEERING
+ </employee>
+ <employee id="508">
+ <firstName>Vinod</firstName>
+ <lastName>Kumar</lastName>
+ <location>MGD</location>
+ </employee>
+ <employee id="509">
+ <firstName>Raghu</firstName>
+ <lastName>Reddy</lastName>
+ <location>MBD</location>
+ </employee>
+ <employee id="510">
+ <firstName>Uma Shankar</firstName>
+ <lastName>Kommana</lastName>
+ <location>DSNR</location>
+ </employee>
+</employees>
